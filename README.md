@@ -6,7 +6,7 @@ so if you are this human being, you came to the right fucking place, so like, he
 
 
 ```markdown
-Rules
+# Rules
 
 # Header 1
 ## Header 2
