@@ -4,12 +4,9 @@ Well lets say you are the type of person who is really really really smart and i
 
 so if you are this human being, you came to the right fucking place, so like, here you got some vpn some little easy hacks to make your 4 yers of High School a little bit easyer, (Lets just say here is de DeepWeb of School), here is where you unblock your computer without getting into trouble and do tests where you can search on google and the teacher wont notice it, here is where your netflix facebook instagram... works with no detention or referal
 
-## Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Rules
 
 # Header 1
 ## Header 2
