@@ -8,5 +8,9 @@ So if you are this human being, you came to the right fucking place, so like, he
 ```markdown
 Rules;
 
+1. Do not show this to anyone that can ruin it
 
+2. Fuck you, (playing, just donw fuck with me)
+
+3. if buy our shit there is no refund
 ```
