@@ -6,21 +6,9 @@ so if you are this human being, you came to the right fucking place, so like, he
 
 
 ```markdown
-# Rules
+Rules;
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+your bf
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
