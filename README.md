@@ -21,6 +21,4 @@ test trial" there is no trial, your else buy it or you don't buy it, if you won'
 ```
 
 
-
-[editor on GitHub](https://github.com/hackcreator/hellowd/edit/master/README.md)
-[Zip Download](https://www.google.com)
+## [Zip Download](https://www.google.com)
