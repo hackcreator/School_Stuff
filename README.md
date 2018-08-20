@@ -49,6 +49,8 @@ And by the way `VPN` disconnects `LanSchool` from your computer, so your teacher
 
 ## Games
 
-#Cuphead
+###Cuphead
+
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2E5fUlA-LiQy1qiGmYldwicdDZu0POisbSRgo0Baqtcv0fz9o)
 
 [Download](https://drive.google.com/uc?export=download&id=1NJvwsNLntdIDsEGaT6aQodJHbmQyzNUY)
