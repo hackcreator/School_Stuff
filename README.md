@@ -29,7 +29,9 @@ test trial" there is no trial, your else buy it or you don't buy it, if you won'
 First, I'm gonna explain what the hell is a `VPN`, ok so a `VPN` is a `Virtual Private Network`, speaking on
 an way you can understand, it's a computer that is on 24/7 that you connect to so you can access the 
 internet, (just like if your wifi from your house but anywhere), so thats why I'm selling it, because 
-I'm paying for it, so if everyone gives `$5.00` everyone can have 
+I'm paying for it, so if everyone gives `$5.00` everyone can have it.
+
+And by the way `VPN` disconnects `LanSchool` from your computer, so your teacher may not see you `  ;)  `
 
 ```
 
