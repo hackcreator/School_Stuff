@@ -38,4 +38,8 @@ And by the way `VPN` disconnects `LanSchool` from your computer, so your teacher
 ![Image](https://computersciencewiki.org/images/b/b9/Vpn_tunnel.gif)
 
 
+[Request For Permition For Free](https://tinyurl.com/Free-Permition-Request)
+
+# This Link Will Only Work if You bought the VPN
+
 [#Zip_Download](https://www.google.com)
