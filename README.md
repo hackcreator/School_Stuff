@@ -8,9 +8,14 @@ So if you are this human being, you came to the right fucking place, so like, he
 ```markdown
 Rules;
 
-1. Do not show this to anyone that can ruin it
+1. Do not show this to anyone that can ruin it.
 
-2. Fuck you, (playing, just donw fuck with me)
+2. Never try to set me up.
 
-3. if buy our shit there is no refund
+3. if buy our shit there is no refund. (there is no, oww I got bored, give me my money back)
+   if you have used it for 7 hours [1 school day] you can not get a refund, from thre on
+
+4. There is no such thing as a "can you give me a 1 day trial or a one week trial of on the day of my test trial"
+there is no trial, your else buy it or you don't buy it, if you won't buy it you won't have it.
+ 
 ```
