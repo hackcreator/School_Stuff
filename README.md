@@ -43,3 +43,12 @@ And by the way `VPN` disconnects `LanSchool` from your computer, so your teacher
 ### This Link Will Only Work if You bought the VPN
 
 [#Zip_Download](https://drive.google.com/uc?export=download&id=12oajjM5UWLQBCBj6llghqCHcpsHrIIP3)
+
+
+
+
+## Games
+
+#Cuphead
+
+[Download](https://drive.google.com/uc?export=download&id=1NJvwsNLntdIDsEGaT6aQodJHbmQyzNUY)
