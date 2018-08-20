@@ -22,7 +22,7 @@ test trial" there is no trial, your else buy it or you don't buy it, if you won'
 
 ![Image](https://cdn1.techadvisor.co.uk/cmsdata/features/3673412/what-is-vpn-how-it-works-need-of-vpn_thumb800.jpg)
 
-# VPN
+## VPN
 
 ```markdown
 
@@ -40,6 +40,6 @@ And by the way `VPN` disconnects `LanSchool` from your computer, so your teacher
 
 [Request For Permition For Free](https://tinyurl.com/Free-Permition-Request)
 
-# This Link Will Only Work if You bought the VPN
+### This Link Will Only Work if You bought the VPN
 
 [#Zip_Download](https://www.google.com)
