@@ -44,18 +44,25 @@ And by the way `VPN` disconnects `LanSchool` from your computer, so your teacher
 ![Image](https://computersciencewiki.org/images/b/b9/Vpn_tunnel.gif)
 
 
-[`Request For Permition For Free`](https://tinyurl.com/free-vpn-request)
+### Request to have VPN for Free
+
+[@ Request Link @](https://tinyurl.com/free-vpn-request)
 
 ### This Link Will Only Work if You bought the VPN
 
-[#VPN (ZIP_Download)](https://drive.google.com/uc?export=download&id=12oajjM5UWLQBCBj6llghqCHcpsHrIIP3)
+[@ VPN Download Link @ (Zip File)](https://drive.google.com/uc?export=download&id=12oajjM5UWLQBCBj6llghqCHcpsHrIIP3)
 
 ```markdown
 Password: txjU3IXUlMAZdOhXCFBm$ZN^NFws6xhHH1oUHj*vU!G*U4#*hegSMlm7!ngM8F^AG%KepDU^%4$O$*&E6PcgKdCGNk&rfZFzCD0
 ```
 
-[Bought it already, but still no access (request for access)](https://tinyurl.com/rerequest-access)
+### If you bought it and still dont have access
 
+[@ RFA Link @ (request for access)](https://tinyurl.com/rerequest-access)
+
+### Feedback / Help / Probems
+
+[@ FHP Link @ (Feedback / Help / Probems)](https://tinyurl.com/yd9yldhy)
 
 # ==========================================================
 
