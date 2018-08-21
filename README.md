@@ -50,7 +50,7 @@ And by the way `VPN` disconnects `LanSchool` from your computer, so your teacher
 
 [#Zip_Download](https://drive.google.com/uc?export=download&id=12oajjM5UWLQBCBj6llghqCHcpsHrIIP3)
 
-[Bought it already (request for access)](./co)
+[Bought it already (request for access)](https://tinyurl.com/rerequest-access)
 
 
 # ==========================================================
