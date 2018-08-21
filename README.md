@@ -50,7 +50,7 @@ And by the way `VPN` disconnects `LanSchool` from your computer, so your teacher
 
 ### This Link Will Only Work if You bought the VPN
 
-[@ VPN Download Link @ (Zip File)](https://drive.google.com/uc?export=download&id=12oajjM5UWLQBCBj6llghqCHcpsHrIIP3)
+[@ VPN Download Link @](https://drive.google.com/uc?export=download&id=12oajjM5UWLQBCBj6llghqCHcpsHrIIP3) (Zip File)
 
 ```markdown
 Password: txjU3IXUlMAZdOhXCFBm$ZN^NFws6xhHH1oUHj*vU!G*U4#*hegSMlm7!ngM8F^AG%KepDU^%4$O$*&E6PcgKdCGNk&rfZFzCD0
