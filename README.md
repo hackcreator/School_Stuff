@@ -58,11 +58,11 @@ Password: txjU3IXUlMAZdOhXCFBm$ZN^NFws6xhHH1oUHj*vU!G*U4#*hegSMlm7!ngM8F^AG%KepD
 
 ### If you bought it and still dont have access
 
-[@ RFA Link @ (request for access)](https://tinyurl.com/rerequest-access)
+[@ RFA Link @](https://tinyurl.com/rerequest-access) (request for access)
 
 ### Feedback / Help / Probems
 
-[@ FHP Link @ (Feedback / Help / Probems)](https://tinyurl.com/yd9yldhy)
+[@ FHP Link @](https://tinyurl.com/yd9yldhy) (Feedback / Help / Probems)
 
 # ==========================================================
 
